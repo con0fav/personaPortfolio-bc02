@@ -1,0 +1,78 @@
+body {
+    background-color: #F7F7FF;
+}
+
+header {
+    font-size: 30px;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    background-color: #495867;
+}
+
+header h1 {
+    color: #F7F7FF;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #577399;
+}
+
+nav {
+    margin-left: auto;
+    float: right;
+}
+
+ 
+.content {
+    width: 800px;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 1em;
+    border-style: solid;
+    border-color: red;
+    border-radius: 3px;
+}
+
+.row {
+    display: flex;
+    padding: 1em;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 3px;
+
+}
+
+.row h2 {
+    font-size: 30px;
+    padding: 1em;
+    border-right: 5px solid darkblue;
+}
+
+.row p {
+    padding: 0.5em;
+}
+
+#workgrid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#gridbox {
+    padding: 1em;
+}
+
+#contact li {
+    display: inline;
+    text-emphasis: center;
+}
+
+footer {
+    text-align: center;
+}
+/* build work elements using box css timeline */
+/* footer css element */
+/* linear gradient css property */
+
+/* to do: css animations, dark mode palette switch */
