@@ -1,2 +1,2 @@
-# personaPortfolio-bc02
+# personalPortfolio-bc02
 UW Coding Bootcamp HW for Unit 02
