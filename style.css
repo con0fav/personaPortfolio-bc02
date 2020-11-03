@@ -12,32 +12,47 @@ header {
 
 header h1 {
     color: #F7F7FF;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: #577399;
+    padding: 0px 10px 0px 40px;
+    background-color: #577399;
 }
 
 nav {
-    margin-left: auto;
-    float: right;
+    padding: 3px;
 }
 
- 
+nav a {
+   color: #bdd5ea;
+   text-decoration: none;
+   border-bottom: 5px solid;
+}
+
+#splash {
+    padding: 100px 0px 100px 0px;
+    background-image: url("./robert-pricop-tdvN7FJ0eIs-unsplash.jpg") ;
+    background-size: cover;
+    background-position-y: center;
+}
+
+#splash h2 {
+    color: #F7F7FF;
+    padding: 10px;
+    background-color: #577399;
+    position: absolute;
+    right: 20px;
+}
+
+
 .content {
     width: 800px;
     margin: 0 auto;
     max-width: 100%;
     padding: 1em;
-    border-style: solid;
-    border-color: red;
     border-radius: 3px;
 }
 
 .row {
     display: flex;
     padding: 1em;
-    border-style: solid;
-    border-color: blue;
     border-radius: 3px;
 
 }
@@ -63,9 +78,15 @@ nav {
     padding: 1em;
 }
 
+
 #contact li {
     display: inline;
     text-emphasis: center;
+    width: 800px;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 1em;
+    border-radius: 3px;
 }
 
 footer {
