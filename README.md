@@ -2,4 +2,5 @@
 Personal portfolio website for Connor Favero
 
 # Contents of site:
-There will be a main portfolio page featuring links to the music of Connor Favero, using album art as the container images
+There will be a main portfolio page featuring links to the music of Connor Favero, using album art as the container images.
+https://con0fav.github.io/personalPortfolio-bc02/
