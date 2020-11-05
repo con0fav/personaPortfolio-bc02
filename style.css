@@ -43,11 +43,12 @@ nav a {
 
 
 .content {
-    width: 800px;
+    width: auto;
     margin: 0 auto;
     max-width: 100%;
     padding: 1em;
     border-radius: 3px;
+    font-size: large;
 }
 
 .row {
@@ -72,21 +73,19 @@ nav a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 #gridbox {
     padding: 1em;
 }
 
-
 #contact li {
-    display: inline;
-    text-emphasis: center;
-    width: 800px;
-    margin: 0 auto;
-    max-width: 100%;
+    display: inline-block;
     padding: 1em;
-    border-radius: 3px;
+    color: #bdd5ea;
+    border-bottom: 5px solid;
+    text-decoration: none;
 }
 
 footer {
