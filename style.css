@@ -29,7 +29,7 @@ nav a {
 #splash {
     padding: 100px 0px 100px 0px;
     background-image: url("./robert-pricop-tdvN7FJ0eIs-unsplash.jpg") ;
-    background-size: cover;
+    background-size: auto;
     background-position-y: center;
 }
 
@@ -41,7 +41,6 @@ nav a {
     right: 20px;
 }
 
-
 .content {
     width: auto;
     margin: 0 auto;
@@ -51,20 +50,20 @@ nav a {
     font-size: large;
 }
 
-.row {
+.main {
     display: flex;
     padding: 1em;
     border-radius: 3px;
 
 }
 
-.row h2 {
+.main h2 {
     font-size: 30px;
     padding: 1em;
     border-right: 5px solid darkblue;
 }
 
-.row p {
+.main p {
     padding: 0.5em;
 }
 
@@ -76,8 +75,33 @@ nav a {
     flex-wrap: wrap;
 }
 
-#gridbox {
-    padding: 1em;
+.workitem {
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+    border: 2px solid #bdd5ea;
+    margin: 50px;
+    padding: 100px; 
+}
+
+#gridbox1 {
+    background-image: url(./placeholder1.jpg) ;
+}
+
+#gridbox2 {
+    background-image: url(./placeholder2.jpg) ;
+}
+
+#gridbox3 {
+    background-image: url(./placeholder3.jpg) ; 
+}
+
+#gridbox4 {
+    background-image: url(./placeholder4.jpg) ;
+}
+
+#gridbox5 {
+    background-image: url(./placeholder5.jpg) ;
 }
 
 #contact li {
