@@ -1,6 +1,5 @@
 # personalPortfolio-bc02
-Personal portfolio website for Connor Favero
+Personal portfolio website for Connor Favero. Continually updated with coding examples and projects. Constant work in progress!
 
 # Contents of site:
-There will be a main portfolio page featuring links to the music of Connor Favero, using album art as the container images.
 https://con0fav.github.io/personalPortfolio-bc02/
